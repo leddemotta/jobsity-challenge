@@ -1,0 +1,14 @@
+# WordPress core files
+wp-admin/
+wp-includes/
+
+# Local by Flywheel specific files
+.localwp/
+.local-xdebuginfo.php
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode
